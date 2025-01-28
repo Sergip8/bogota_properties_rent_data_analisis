@@ -1,0 +1,16 @@
+# Entorno virtual de Python
+venv/
+.env/
+
+# Archivos de Python compilados
+*.pyc
+*.pyo
+__pycache__/
+
+# Configuración del entorno
+*.env
+*.env.*
+
+# Archivos creados por el sistema operativo
+.DS_Store
+Thumbs.db
